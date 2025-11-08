@@ -96,3 +96,7 @@ find "$DOWNLOADS_DIR" -depth -mtime $DAYS_OLD -delete
 
 echo "✅ Cleanup completed."
 ```
+
+## 🏷️ License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
